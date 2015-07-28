@@ -1,3 +1,11 @@
+# pk-app-linux-dash
+
+This is a slight modification version on Linux Dash to make it work on pillakloud system.
+
+For detailed information, please check following messages from original author.
+
+Thanks.
+
 # Linux Dash
 
 [![Linux Dash Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/afaqurk/linux-dash)
